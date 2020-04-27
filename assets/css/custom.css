@@ -17,3 +17,25 @@
   height: 100px;
   width: 100px;
 }
+
+.project-img {
+  width: 80%;
+  box-sizing: inherit;
+}
+
+.project-heading {
+  text-align: center;
+}
+
+.project-li {
+  background-color: rgba(0, 0, 0, 0.25);
+  align-items: center;
+  border-radius: 15px;
+  list-style: none;
+  padding: 30px 10px 30px 10px;
+  margin: 30px;
+}
+
+.project-description {
+  margin: 15px 15px 0 15px;
+}
