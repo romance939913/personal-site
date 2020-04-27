@@ -1,0 +1,14 @@
+.header-social {
+  list-style: none;
+}
+
+.header-social-icons {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.white-text {
+  color: white;
+}
