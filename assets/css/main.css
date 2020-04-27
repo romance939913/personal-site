@@ -3314,11 +3314,18 @@ input, select, textarea {
 
 			#nav.alt ul li {
 				margin: 0 0.175em;
+				color: #636363;
 			}
 
 				#nav.alt ul li a {
 					font-size: 0.9em;
+					color: #636363;
 				}
+
+					#nav.alt ul li a.active {
+						background-color: #dddddd;
+						box-shadow: none;
+					}
 
 		@media screen and (max-width: 736px) {
 
