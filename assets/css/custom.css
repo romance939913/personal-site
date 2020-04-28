@@ -39,3 +39,15 @@
 .project-description {
   margin: 15px 15px 0 15px;
 }
+
+@media only screen and (device-width : 375px) {
+  .features li {
+    margin: 15px;
+  }
+}
+
+@media only screen and (device-width : 414px) {
+  .features li {
+    margin: 15px;
+  }
+}
