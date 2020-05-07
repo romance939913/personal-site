@@ -18,6 +18,11 @@
   width: 100px;
 }
 
+/* .skills-icon:hover {
+  webkit-filter: blur(4px);
+  filter: blur(8px);
+} */
+
 .project-img {
   width: 80%;
   box-sizing: inherit;
@@ -38,6 +43,10 @@
 
 .project-description {
   margin: 15px 15px 0 15px;
+}
+
+.skill-link {
+  text-decoration: none;
 }
 
 @media only screen and (device-width : 375px) {
