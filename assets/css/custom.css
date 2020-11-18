@@ -4,8 +4,8 @@
 
 .header-social-icons {
   display: flex;
-  list-style: none;
   justify-content: center;
+  list-style: none;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@
 }
 
 .skill-link {
-  text-decoration: none;
+  /* text-decoration: none; */
 }
 
 .project-title-div {
